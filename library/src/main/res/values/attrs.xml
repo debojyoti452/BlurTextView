@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BackBoneTextView">
+        <attr name="BTVFonts" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="UltimateTextView">
+        <attr name="BTVMinTextSize" format="dimension" />
+        <attr name="BTVAutoFitEnabled" format="boolean" />
+        <attr name="BTVSingleLine" format="boolean" />
+        <attr name="BTVMaxLines" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="BlurTextView">
+        <attr name="BTVIsBlurEnabled" format="boolean" />
+    </declare-styleable>
+
+</resources>
