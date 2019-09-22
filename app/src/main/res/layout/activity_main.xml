@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="@string/when_something_is_important_enough_you_do_it_even_if_the_odds_are_not_in_your_favor"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        app:BTVIsBlurEnabled="true" />
 
     <Button
         android:id="@+id/blurBtn"
